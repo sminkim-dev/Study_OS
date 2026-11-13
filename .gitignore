@@ -1,0 +1,20 @@
+# 컴파일된 실행 파일
+*.exe
+*.out
+*.app
+
+# 오브젝트 파일 (컴파일 중간 부산물)
+*.o
+*.obj
+*.lib
+*.a
+
+# 빌드 폴더 및 IDE 설정 디렉토리
+/bin/
+/obj/
+Debug/
+Release/
+.vs/
+.vscode/
+*.suo
+*.user
